@@ -12,6 +12,8 @@ To define the internal process of our software we will use a popular language to
 
 The software may be implemented for greatly different use cases as well, which means we need to keep in mind that people maybe using an relational database, or a NoSQL database, either in memory or persisted, because of this we need to keep this in mind when defining what exactly the core functions of each service is, for example it may not be a hard requirement for a company to provide full text search across their data, while others might have this requirement. This means that we need to define our core functions as a basic CRUD system where we make no assumptions on the backing database.
 
+Before we create a design we must have identified a use case where the API is going to be consumed, we will be able to create multiple processes that use the same designs, however a design without a use case is never going to be used for a general consumer. 
+
 ## Example
 
 ### GraphQL
