@@ -16,6 +16,8 @@ The software may be implemented for greatly different use cases as well, which m
 
 ### GraphQL
 
+_An example implementation of this can be found [here](https://github.com/open-logistics/simple-graphql-example-nodejs)_
+
 Here we provide a basic framework for keeping track of inventory for a specific items at a location.
 
 First we need an item that contains basic information about our items,
