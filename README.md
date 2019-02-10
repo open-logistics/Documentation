@@ -1,5 +1,9 @@
 # Documentation
 
+## About
+
+The Open Logistics project is intended to provide the logistics industry with an **open source** alternative to the current line of logistics software.
+
 ## Contributing
 
 Please see [Contributing](./CONTRIBUTING.md)
