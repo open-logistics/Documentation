@@ -7,6 +7,7 @@ The Open Logistics project is intended to provide the logistics industry with an
 ## TOC
 
 - [Design](./design/README.md)
+- [Process](./process/README.md)
 
 ## Contributing
 
